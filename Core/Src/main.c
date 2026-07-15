@@ -275,6 +275,7 @@ void transmit(char byte)
 
 	}
 	scllow();
+	sdalow();
 
 }
 
